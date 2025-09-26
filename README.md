@@ -49,4 +49,5 @@ La responsividad asegura que la Pokédex se adapte a diferentes tamaños de pant
 6. Se debe de ingresar en el navegador del teléfono http://(la ip):8000 que fue el puerto que se habilitó:
 ![Imagen de WhatsApp 2025-09-22 a las 21 35 39_63cd0bff](https://github.com/user-attachments/assets/7f727dcb-ee0e-4040-a2e7-e53511a1e6b5)
 
+Link youtube: https://www.youtube.com/watch?v=ua_nclj9rWg
 ****FIN****
