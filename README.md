@@ -1,5 +1,5 @@
 # Pokedex <img width="16" height="16" alt="9f25803a-57d2-11e6-8746-0bea27561007" src="https://github.com/user-attachments/assets/00f8501e-cc35-40c0-a061-f6e1794de06c" />
-
+Link youtube: https://www.youtube.com/watch?v=ua_nclj9rWg
 Primera evaluación parcial-Programación Web- UDV- POKEDEX
 Requerimientos:
 
